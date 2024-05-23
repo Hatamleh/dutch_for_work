@@ -108,7 +108,7 @@ Make it singular:
 ***
 Make plural
 1. Hij rookt een sigaar! `wij roken een sigaar`
-2. Ik geef mijn oma bloemen `ze geven hun oma blomen`
+2. Ik geef mijn oma bloemen `ze geven hun oma bloemen`
 3. Komt hij ook spelen morgen ? `komen jullie ook spelen morgen? `
 4. De postbode belt aan. `wij bellen aan`
 5. De studente praat altijd in de les. `ze praten altijd in de les`
