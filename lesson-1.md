@@ -32,7 +32,7 @@ Everything related to lesson one!
 * zij (hun).
 * jullie (jullie / je)
 ***
-* de auth / onze auto
+* de auto / onze auto
 * het huis / ons huis
 ***
 * hij werkt morgen thuis / morgen werkt hij thuis.
@@ -44,12 +44,12 @@ Everything related to lesson one!
 |--------|---------|---------|---------|---------|---------|---------|---------|---------|
 | ben    | is      | is      | is      | bent    | bent    | zijn    | zijn    | zijn    |
 | heb    | heeft   | heeft   | heeft   | hebt    | hebt    | hebben  | hebben  | hebben  |
-| wil    | wil     | wil     | wil     | wilt    | wilt    | willen  | willen  | willen  |
+| wil    | wil     | wil     | wil     | wilt/wil| wilt    | willen  | willen  | willen  |
 | ga     | gaat    | gaat    | gaat    | gaat    | gaat    | gaan    | gaan    | gaan    |
 | werk   | werkt   | werkt   | werkt   | werkt   | werkt   | werken  | werken  | werken  |
 | woon   | woont   | woont   | woont   | woont   | woont   | wonen   | wonen   | wonen   |
 | zit    | zit     | zit     | zit     | zit     | zit     | zitten  | zitten  | zitten  |
-| ries   | riest   | riest   | riest   | riest   | riest   | riezen  | riezen  | riezen  |
+| reis   | reist   | reist   | reist   | reist   | reist   | reizen  | reizen  | reizen  |
 | geef   | geeft   | geeft   | geeft   | geeft   | geeft   | geven   | geven   | geven   |
 | spreek | spreekt | spreekt | spreekt | spreekt | spreekt | spreken | spreken | spreken |
 | kom    | komt    | komt    | komt    | komt    | komt    | komen   | komen   | komen   |
@@ -58,10 +58,10 @@ Everything related to lesson one!
 # Homework:
 
 1. Welke pizza `eet` jij graag ? (eten)
-2. `fietst` jij bijna elke dag ?  (fietsen)
+2. `fietse` jij bijna elke dag ?  (fietsen)
 3. Ik `denk`dat het morgen gaat regenen  (denken)
 4. Wij `kiezen` voor een groot feest. (kiezen)
-5. Mijn man `betaald` nooit!  (betalen)
+5. Mijn man `betaalt` nooit!  (betalen)
 6. Jullie `blijven` vannacht slapen.  (blijven)
 7. Zij `verliezen` `verliest` altijd bij Scrabble.(verliezen)
 8. Ik `vergeet` altijd de vuilbak buiten te zetten.  (vergeten)
@@ -70,15 +70,15 @@ Everything related to lesson one!
 11. Morgen `koop` ik die CD van Eels. (kopen)
 12. `ken` jij de theorie van Socrates ?  (kennen)
 13. Jij `loopt` wel heel erg snel !  (lopen)
-14. De brandweerman `reed` de kat uit de boom.  (redden)
+14. De brandweerman `red` de kat uit de boom.  (redden)
 15. U `stuurt` niet goed  (sturen)
-16. `bieedt` u ons een drankje aan ? (bieden)
-17. `overtrend` jij soms de wet ?  (overtreden)
+16. `biedt` u ons een drankje aan ? (bieden)
+17. `overtreed` jij soms de wet ?  (overtreden)
 18. Hij `kleedt` zijn kinderen elke ochtend. (kleden)
 19. Ik `lees` graag strips   (lezen)
 20. Mijn vader `weerkt` in Brussel (werken)
 21. Ik `leer` Nederlands op Nedaca. (leren)
-22. Mijn moeder `duurft` niet springen.  (durven)
+22. Mijn moeder `durft` niet springen.  (durven)
 23. ’s Avonds `koken` we samen (koken)
 24. Moeder `doet` boodschappen in de stad  (doen)
 25. Mijn broer `speelt` trompet (spelen)
@@ -86,7 +86,7 @@ Everything related to lesson one!
 27. `zie` je die lichtjes daar ? (zien)
 28. `gaat` hij vaak naar musea ? (gaan)
 29. Ik `reis` graag met de auto.  (reizen)
-30. Dat meisje `duurft` de straat niet oversteken (durven)
+30. Dat meisje `durft` de straat niet oversteken (durven)
        
 ***
 1. Een dame `solliciteert` (solliciteren) naar een baan.
