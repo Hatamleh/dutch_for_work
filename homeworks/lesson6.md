@@ -7,7 +7,7 @@
 * Ze wil eerst uitslapen
 * een gekookt e,i een boterham met kaas en en kopje the.
 * Ze gaat om drie uur squashen
-* Nee, als ze heeft een ADV-dag
+* Nee, als ze een ADV-dag heeft.
 * Sarah komt bij Marjan na haar werk
 * Elke dag is een drukke dag voor mij
 * Ik sta om 7 uur op.
@@ -69,7 +69,7 @@ vridag:
 * gaat
 * moet
 * eet
-* verdtrekt
+* vertrekt
 * leest
 * heeft
 * gaat
@@ -88,7 +88,7 @@ vridag:
 ### exercises4
 * sta ik op
 * heb ik een vergadering
-* Pak ik de kinderen van school
+* hal ik de kinderen van school op
 * Kijken wij de wedstrijd
 * ga ik naar de gym
 * De kamer schoonmaken?
