@@ -2,7 +2,7 @@
 * Sarah staat om 7 uur op.
 * De eerste afspraak met haar baas omdat hij op reis gaat .
 * Nee, zij luncht met collega's als ze tijd heeft.
-* Omdat ze soms heeft geen tijd.
+* Omdat ze soms geen tijd heeft.
 * Nee, ze heeft een vrije dag.
 * Ze wil eerst uitslapen
 * een gekookt e,i een boterham met kaas en en kopje the.
