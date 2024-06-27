@@ -7,6 +7,6 @@
 5. Ik drink ... wijn bij het eten. `geen`
 6. Kom je ... op mijn verjaardag? `niet`
 7. De boeken staan ... in de kast. `niet`
-8. Dat is ... gulden, dat is een Belgische frank. `niet`
+8. Dat is ... gulden, dat is een Belgische frank. `geen`
 9. Ik woon ... in Amsterdam. `niet`
-10. Dat is ... goede zin. `niet`
+10. Dat is ... goede zin. `geen`
