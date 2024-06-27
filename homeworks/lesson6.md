@@ -1,8 +1,8 @@
 # 64 06.04 Questions about the text
 * Sarah staat om 7 uur op.
-* De eerste afspraak met haar baas omdat hij gaat op reis.
+* De eerste afspraak met haar baas omdat hij op reis gaat .
 * Nee, zij luncht met collega's als ze tijd heeft.
-* Omdat soms heeft ze geen tijd.
+* Omdat ze soms heeft geen tijd.
 * Nee, ze heeft een vrije dag.
 * Ze wil eerst uitslapen
 * een gekookt e,i een boterham met kaas en en kopje the.
